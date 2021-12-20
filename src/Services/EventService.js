@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const apiClient = axios.create({
-  baseURL: "https://my-json-server.typicode.com/RinatValiullov/vue-learn-4ront",
+  baseURL: "https://my-json-server.typicode.com/RinatValiullov/real-world-vue",
   withCredentials: false,
   headers: {
     Accept: "application/json",
